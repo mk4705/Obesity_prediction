@@ -32,7 +32,7 @@ Top features include: Weight, Age, Height, Dietary habits (like Frequency of Veg
 
 Visualization: Feature importances are shown via a bar plot for interpretability.
 
-Key Findings
+Key Findings:
 The notebook demonstrates strong predictive performance for obesity classification using demographic and lifestyle data.
 Weight is the most important predictor followed by Age, Height, and dietary habits.
 
